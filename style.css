@@ -1,0 +1,27 @@
+.title {
+font-family: Helvetica;
+font-weight: lighter;
+color: lightslategray;
+}
+
+img {
+height: 400px;
+border: 5px ridge darkgray;
+margin-bottom: 0px;
+}
+body {
+background: AntiqueWhite;
+}
+h4 {
+color: darkgray;
+font-family: helvetica;
+font-weight: lighter;
+margin-top: 1px;
+}
+p {
+width: 700px;
+color: DarkSalmon;
+}
+h1 {
+text-align: center;
+}
