@@ -25,3 +25,12 @@ color: DarkSalmon;
 h1 {
 text-align: center;
 }
+#move{
+position: absolute;
+}
+#wrapper {
+position: relative;
+height: 410px;
+}
+
+
