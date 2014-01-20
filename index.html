@@ -35,8 +35,9 @@ skilled. I hope you enjoy my pictures!</p>
 <div>
       <script src="http://code.jquery.com/jquery.js"></script>
     <script>
-   var slideWidth = $('#move').width()
+   
    $('#move').click(function() {
+   var slideWidth = $('#move').width();
    console.log(slideWidth);
    $('#move').animate({left: slideWidth, opacity: 0.1},
    350);
